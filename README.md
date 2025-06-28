@@ -64,5 +64,3 @@ Once confirmed, the SOC should take the following actions:
 ---
 
 
-![Image](https://github.com/user-attachments/assets/be9b75c9-3cec-495b-8077-3893ef3eb0c8)
-
